@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Created-By: Apache Maven 3.3.9
+Built-By: miguelfernandes
+Build-Jdk: 11.0.1
+Class-Path: lib/projeto2-business-0.0.1-SNAPSHOT.jar lib/projeto2-data-0
+ .0.1-SNAPSHOT.jar
+
